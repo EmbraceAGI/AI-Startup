@@ -11,6 +11,5 @@
 
 ## 每日创业
 
-- 2023-11-02 [1111](2023-11-02)
 - 2023-11-01 [Palo Alto Networks购买Dig Security，StartUp Health获得融资，23家初创公司加入Hub71计划
 ](https://github.com/EmbraceAGI/AI-Startup/blob/main/History/20231101.md)
