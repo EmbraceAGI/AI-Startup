@@ -12,6 +12,7 @@
 ## 每日创业
 
 - 2023-11-18 [创新蓬勃发展：2024年有望成功的十家瑞典初创公司 🚀;“改变即将到来”吗？音乐出版商起诉AI初创公司Anthropic侵犯版权 🎵🤖;谁将赢得GTM AI大赛——初创公司vs.老牌企业？与Stage 2 Capital联合创始人兼董事总经理Mark Roberge一起 🏆💡;乌克兰风险基金Roosh Ventures投资德国初创公司GlassFlow Serhiy Tokarev 💼💡](History/20231118.md)
+- 2023-11-18 [创新蓬勃发展：2024年有望成功的十家瑞典初创公司 🚀;“改变即将到来”吗？音乐出版商起诉AI初创公司Anthropic侵犯版权 🎵🤖;谁将赢得GTM AI大赛——初创公司vs.老牌企业？与Stage 2 Capital联合创始人兼董事总经理Mark Roberge一起 🏆💡;乌克兰风险基金Roosh Ventures投资德国初创公司GlassFlow Serhiy Tokarev 💼💡](History/20231118.md)
 - 2023-11-17 [KSUM与比利时、澳大利亚签署谅解备忘录，开设创业无限中心 🌐;Airbnb以2亿美元收购人工智能创业公司 💸;客户数据同步和分析创业公司Hightouch收购HeadsUp 📊;了解赢得CES创新奖的12家荷兰创业公司 🏆](History/20231117.md)
 - 2023-11-15 [Airbnb Acquires AI Startup to Build ‘Ultimate Travel Agent’ 🌐✈️;HYCU® Spotlighted on the CRN® 2023 Stellar Startups List 🚀🌟;StartUp Health Insights: AIDriven Innovation Dominates Funding | Week of Nov 14, 2023 🤖💡;Anatomy of Llama Lounge – The AI Startup Event Series 🦙🎉](History/20231115.md)
 - 2023-11-14 [AppOmni荣登CRN 2023年度杰出初创公司榜单🌟;生成式AI编码初创公司Tabnine融资2500万美元💻;ChatGPT：初创公司应对适应性挑战🚀;Cribl荣登CRN 2023年度杰出初创公司榜单🌌](History/20231114.md)
