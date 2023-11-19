@@ -11,6 +11,7 @@
 
 ## 每日创业
 
+- 2023-11-19 [初创公司将在印度成为第三大经济体方面发挥重要作用: CEA Nageswaran 🌐;机器学习：超越炒作的战略初创指南 🚀;改变黑客行业的初创公司 💡;```](History/20231119.md)
 - 2023-11-18 [创新蓬勃发展：2024年有望成功的十家瑞典初创公司 🚀;“改变即将到来”吗？音乐出版商起诉AI初创公司Anthropic侵犯版权 🎵🤖;谁将赢得GTM AI大赛——初创公司vs.老牌企业？与Stage 2 Capital联合创始人兼董事总经理Mark Roberge一起 🏆💡;乌克兰风险基金Roosh Ventures投资德国初创公司GlassFlow Serhiy Tokarev 💼💡](History/20231118.md)
 - 2023-11-18 [创新蓬勃发展：2024年有望成功的十家瑞典初创公司 🚀;“改变即将到来”吗？音乐出版商起诉AI初创公司Anthropic侵犯版权 🎵🤖;谁将赢得GTM AI大赛——初创公司vs.老牌企业？与Stage 2 Capital联合创始人兼董事总经理Mark Roberge一起 🏆💡;乌克兰风险基金Roosh Ventures投资德国初创公司GlassFlow Serhiy Tokarev 💼💡](History/20231118.md)
 - 2023-11-17 [KSUM与比利时、澳大利亚签署谅解备忘录，开设创业无限中心 🌐;Airbnb以2亿美元收购人工智能创业公司 💸;客户数据同步和分析创业公司Hightouch收购HeadsUp 📊;了解赢得CES创新奖的12家荷兰创业公司 🏆](History/20231117.md)
