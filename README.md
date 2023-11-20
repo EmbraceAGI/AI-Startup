@@ -11,6 +11,7 @@
 
 ## 每日创业
 
+- 2023-11-21 [初创公司Harmonic Health旨在重塑痴呆症治疗 🧠;AWS选择20家初创公司加速新兴技术的发展 🚀;Menlo Ventures融资13.5亿美元：AI初创公司的新时代 💰;教育科技初创公司PhysicsWallah在绩效评估后裁员120名员工 📚](History/20231121.md)
 - 2023-11-20 [初创公司Harmonic Health致力于改变痴呆症治疗 🌱;AWS选择20家初创公司加速新兴技术的发展 💻;微软表示Altman将领导新的内部AI团队，OpenAI董事会聘请前Twitch CEO领导初创公司 🎮;纽约初创公司计划用预制部件和人工智能建造数百家芯片工厂 🏭](History/20231120.md)
 - 2023-11-19 [初创公司将在印度成为第三大经济体方面发挥重要作用: CEA Nageswaran 🌐;机器学习：超越炒作的战略初创指南 🚀;改变黑客行业的初创公司 💡;```](History/20231119.md)
 - 2023-11-18 [创新蓬勃发展：2024年有望成功的十家瑞典初创公司 🚀;“改变即将到来”吗？音乐出版商起诉AI初创公司Anthropic侵犯版权 🎵🤖;谁将赢得GTM AI大赛——初创公司vs.老牌企业？与Stage 2 Capital联合创始人兼董事总经理Mark Roberge一起 🏆💡;乌克兰风险基金Roosh Ventures投资德国初创公司GlassFlow Serhiy Tokarev 💼💡](History/20231118.md)
