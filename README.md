@@ -11,6 +11,7 @@
 
 ## 每日创业
 
+- 2023-11-23 Adobe收购印度生成式AI初创企业Rephrase.ai🇮🇳;英国初创企业Phare Health筹集310万美元用于开发医生AI工具💰;伦敦初创企业Phare Health筹集250万英镑用于AI驱动的医院金融科技🏥;英国秋季声明对初创企业意味着什么？🍂[  more..](History/20231123.md)
 - 2023-11-21 AI21 Labs导体AI初创融资40亿、Austin会计税收人工智能化、Tomoro生产力AI助企业实现每周3天工作、Lasso Security新加坡AI安全监测初创获投、GlassFlow数流平台获投超千万 [more](History/20231121.md)
 - 2023-11-20 [初创公司Harmonic Health致力于改变痴呆症治疗 🌱;AWS选择20家初创公司加速新兴技术的发展 💻;微软表示Altman将领导新的内部AI团队，OpenAI董事会聘请前Twitch CEO领导初创公司 🎮;纽约初创公司计划用预制部件和人工智能建造数百家芯片工厂 🏭](History/20231120.md)
 - 2023-11-19 [初创公司将在印度成为第三大经济体方面发挥重要作用: CEA Nageswaran 🌐;机器学习：超越炒作的战略初创指南 🚀;改变黑客行业的初创公司 💡;```](History/20231119.md)
