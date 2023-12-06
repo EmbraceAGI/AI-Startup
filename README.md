@@ -11,6 +11,7 @@
 
 ## 每日创业
 
+- 2023-12-07 伊隆·马斯克的人工智能初创公司向SEC提交文件，计划通过股权发行筹集高达10亿美元 💼;JUSTPAID，人工智能驱动的金融初创公司，将在OpenAI的GPT商店推出改变游戏规则的GPT应用 🚀;CADDi荣获2023年食品物流、供应链和执行管理的顶尖科技初创公司奖 🏆;生成式人工智能初创公司本周筹集超过8亿美元资金，科技颠覆推动市场 📈[  more..](History/20231207.md)
 - 2023-12-06 SenseAI创投推出20亿卢比基金支持人工智能初创公司 💰;大数据发现与隐私初创公司Mine完成3千万美元B轮融资 🚀;尽管战争仍在进行，以色列初创公司Mine成功融资3千万美元 🕊️;以人工智能驱动的SaaS初创公司Finexos获得69.0万英镑种子资金，加强信贷决策 💳[  more..](History/20231206.md)
 - 2023-12-04 OpenAI Committed to Buying $51 Million of AI Chips From a Startup Backed by CEO Sam Altman 🌐💰;HeyGen: AI Video Startup Launches NearInstant Avatar Generator, Secures $5.6 Million in Funding 🚀💵;The Ultimate Guide to AI Startups: Top 30 Companies to Watch 🌐🔍;Here's what AI startup founders say recent grads should know to land a job in the field 👩‍💼👨‍💼[  more..](History/20231204.md)
 - 2023-12-02 初创公司2124号：美国政府停止警告社交网络，Meta起诉FTC，卫星显示加沙受损，马斯克的GFY等等 😲;Tola Capital：第三基金已关闭，将在早期投资2.3亿美元的人工智能初创公司 🚀;前快捷方式团队推出新的人工智能初创公司Software Applications Incorporated 🌐;见面吧，30家被选中参加Nato加速器的欧洲深科技初创公司 🚀[  more..](History/20231202.md)
