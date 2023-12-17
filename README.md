@@ -11,6 +11,7 @@
 
 ## 每日创业
 
+- 2023-12-17 政府支持，资助印度人工智能初创公司：MoS Rajeev Chandrasekhar 🚀;Ola创始人Bhavish Aggarwal推出AI初创公司Krutrim，致力于创建印地语语言模型 🌐;Nvidia现在在投资人工智能初创公司 💡;地理位置人工智能初创公司GeoIQ帮助企业优化扩张策略 🗺️[  more..](History/20231217.md)
 - 2023-12-17 初创公司True Anomaly获得1亿美元用于太空安全工作 🚀;尼日利亚人工智能驱动的B2B发票管理初创公司Jenesys AI融资110万美元进行前期启动 💵;Ola创始人Bhavish Aggarwal推出初创公司Krutrim，满足印度市场的人工智能需求 🌐;欧洲人工智能监管会摧毁其最热门的人工智能初创公司吗？ 🤖💔[  more..](History/20231216.md)
 - 2023-12-15 中国制药行业已涌现近80家人工智能初创公司🚀;数字和量子技术初创公司获得突破性支持💡;非人工智能SaaS初创公司在筹集资金方面将面临挑战，尤其是在后期阶段：报告📊;美国国防科技初创公司被排斥于欧洲国防市场之外🌐[  more..](History/20231215.md)
 - 2023-12-14 CommerceHub收购AI初创公司Cadeera并更名为Rithum。🤝;Nvidia、AMD支持Essential AI Labs的5650万美元融资轮，由Transformer架构共同发明者领导。🔍;数据管理初创公司Vast Data在1.18亿美元融资轮后估值91亿美元。💽;AI初创公司Braintrust帮助开发者评估和提升他们的AI产品。团队刚刚从Greylock筹集了510万美元的种子轮资金。🚀[  more..](History/20231214.md)
