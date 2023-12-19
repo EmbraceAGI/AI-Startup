@@ -11,6 +11,7 @@
 
 ## 每日创业
 
+- 2023-12-19 #240：重新选举，BILDGPT，初创公司，农民怒火 🔄;VideoVerse从BlueStone融资4500万美元；联合创始人离职，创办LLM初创公司 📈💼;SaaS初创公司Kapture CX融资400万美元，自动化客户支持运营 💰🤖;Gradient Cyber荣登CRN® 2023杰出初创公司名单 🌐🏆[  more..](History/20231219.md)
 - 2023-12-18 Getir支持者Revo Capital计划为人工智能初创公司筹集1亿美元风险投资基金 💰;金融科技创新：初创公司如何颠覆信用卡行业 💳;BAMCAP领衔850万美元融资，支持安全合规初创公司Strike Graph 💼;初创公司在由Pegasus Tech Ventures组织的创业世界杯上大放异彩 🌐🏆[  more..](History/20231218.md)
 - 2023-12-17 政府支持，资助印度人工智能初创公司：MoS Rajeev Chandrasekhar 🚀;Ola创始人Bhavish Aggarwal推出AI初创公司Krutrim，致力于创建印地语语言模型 🌐;Nvidia现在在投资人工智能初创公司 💡;地理位置人工智能初创公司GeoIQ帮助企业优化扩张策略 🗺️[  more..](History/20231217.md)
 - 2023-12-17 初创公司True Anomaly获得1亿美元用于太空安全工作 🚀;尼日利亚人工智能驱动的B2B发票管理初创公司Jenesys AI融资110万美元进行前期启动 💵;Ola创始人Bhavish Aggarwal推出初创公司Krutrim，满足印度市场的人工智能需求 🌐;欧洲人工智能监管会摧毁其最热门的人工智能初创公司吗？ 🤖💔[  more..](History/20231216.md)
